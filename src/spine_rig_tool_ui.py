@@ -1,5 +1,3 @@
-# File: spine_rig_tool_ui.py
-
 import maya.cmds as mc
 from PySide2.QtWidgets import (
     QVBoxLayout, QHBoxLayout, QLabel, QPushButton, QSlider, QWidget, QMessageBox
