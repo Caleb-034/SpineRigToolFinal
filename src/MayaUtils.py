@@ -1,5 +1,3 @@
-# File: MayaUtils.py
-
 from PySide2.QtWidgets import QWidget
 import shiboken2
 import maya.OpenMayaUI as omui
