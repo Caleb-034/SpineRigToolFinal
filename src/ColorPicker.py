@@ -1,5 +1,3 @@
-# File: ColorPicker.py
-
 from PySide2.QtWidgets import QWidget, QVBoxLayout, QPushButton, QColorDialog
 from PySide2.QtGui import QColor
 
